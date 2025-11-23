@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/3977891868_1295220008_223132457.mp4'
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/2852726489_1530586074_3081911740.mp4'
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/2852726489_4139758528_1430397275.mp4'
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/2852726489_3038653614_663226278.mp4'
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/2852726489_3345862746_850637980.mp4'
+file 'file:/workspaces/Math-Videos/manim_scenes/media/videos/my_first_scene/1080p60/partial_movie_files/MyScene/2852726489_4217992463_3313159858.mp4'

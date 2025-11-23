@@ -1,6 +1,5 @@
 from manim import *
 
-
 class MyScene(Scene):
     def construct(self):
         title = Text("Hello, Manim!", font_size=72)

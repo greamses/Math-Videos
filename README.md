@@ -32,3 +32,17 @@ bash render.sh
 ```
 
 Output video and media files appear under `media/videos/` by default.
+
+Additional example: factoring quadratic explainer
+
+Render the new explainer that walks through three factoring methods for x^2 + 4x + 4:
+
+```bash
+manim -pql manim_scenes/factoring_quadratic.py FactoringQuadratic
+```
+
+Or use the included helper:
+
+```bash
+bash render_factoring.sh
+```
